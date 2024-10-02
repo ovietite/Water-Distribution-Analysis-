@@ -1,1 +1,3 @@
-# Water-Distribution-Analysis-
+# Water-Distribution-Analysis
+
+This notebook presents my analysis of the Affinity Water Night Flow Monitoring dataset as part of a Data Scientist practical assessment. The project includes generating summary statistics, visualizing key insights, and training machine learning models to identify patterns and potential anomalies in night water flows across district metered areas (DMAs). I used Python to implement the steps, keeping the code concise and focused. The notebook also provides justifications for model selection, an interpretation of the results, and a discussion of key findings, limitations, and recommendations for future work.
